@@ -14,4 +14,4 @@ To run this project , install it locally using npm:
 The main goal of this project is to help people to manage their daily doing and doing them in time . And this will help them to use their time useful.
 
 #### Hosting
-###### Glitch:https://00012565.glitch.me/  Heroku: https://wiut00012565.herokuapp.com/
+###### Glitch:https://00012565.glitch.me/  Heroku: https://wiut00012565.herokuapp.com/ github: https://github.com/00012565/Web-tech-CourseWork2.git
